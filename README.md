@@ -70,6 +70,12 @@ Since the majority of reviews had lower ratings, I also applied LDA to reviews w
 
 Of course we want to highlight reviews that relate to the mobile application since that's the domain of where we analyzing. Tangible issues such as luggage and baggage may not always be related to the mobile application.
 
+## Model Performance for Lime & Shap Analysis:
+Using Logistic Regression, I obtained the following accuracies when setting the target to rating (sentiment) and topic (topics obtained by LDA) respectively:
+
+Accuracy with Rating as Target: 87.12%
+
+Accuacy with Topic as Target: 82.05%
 
 ## Future Improvements
 With the AppStore scraper, I was only able to scrape a certain number of reviews despite the sleep time between scraping attempts. I believe I could obtain a better holistic view of the reviews if I was able to scrape more reviews and would have resulted in a more accurate depiction of what I wanted to get out of this project.
