@@ -1,5 +1,5 @@
 ## American Airlines Mobile App Reviews Analysis Project - Overview:
-The idea of this project was to collect as many samples of reviews from American Airlines' mobile application and find common issues that customers may be facing when using the application.
+The idea of this project was to collect as many samples of reviews from American Airlines' mobile application as possible and find common issues that customers may be facing when using the application.
 
 * Scraped approximately 3700 reviews from the American Airlines mobile application off of the Apple App store. 
 
