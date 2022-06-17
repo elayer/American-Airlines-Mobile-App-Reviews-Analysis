@@ -68,7 +68,7 @@ Since the majority of reviews had lower ratings, I also applied LDA to reviews w
 * Boarding pass, credit card, and flight/ticket information access 
 * Mobile application issues around login and passwords
 
-Of course we want to highlight reviews that relate to the mobile application since that's the domain of where we analyzing. Tangible issues such as luggage and baggage may not always be related to the mobile application.
+Of course we want to highlight reviews that relate to the mobile application since that's the domain of where we are analyzing. Tangible issues such as luggage and baggage may not always be related to the mobile application.
 
 ## Model Performance for Lime & Shap Analysis:
 Using Logistic Regression, I obtained the following accuracies when setting the target to rating (sentiment) and topic (topics obtained by LDA) respectively:
